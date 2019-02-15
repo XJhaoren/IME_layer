@@ -1,7 +1,7 @@
 # IME_layer
 Code for our paper：
-</br>Iterative Manifold Embedding Layer Learned by Incomplete Data for Large-scale Image Retrieval.
-</br>Jian Xu, Chunheng Wang*, Chengzuo Qi, Cunzhao Shi, Baihua Xiao
+J. Xu, C. Wang, C. Qi, C. Shi and B. Xiao, "Iterative Manifold Embedding Layer Learned by Incomplete Data for Large-scale Image Retrieval," in IEEE Transactions on Multimedia.
+doi: 10.1109/TMM.2018.2883860
 
 NOTE:
 
